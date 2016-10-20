@@ -2,8 +2,9 @@
 jmp
 
 https://help.github.com/articles/helping-people-contribute-to-your-project/
- was in the clipboard but isn't helping.  No save button means it saves work automatically?
+ was in the clipboard to remind me to work with an issue template for this repo.
  
+ - [ ] No save button means it saves work automatically?
  - [ ] Create the wiki default, a website(?) and a definition.
  - [ ] Next on the list might be to restrict all branches to require approval (pull request).
  
