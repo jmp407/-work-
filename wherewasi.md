@@ -5,6 +5,7 @@ https://github.com/jmp407/-work-/commits/master
 https://help.github.com/articles/helping-people-contribute-to-your-project/
  was in the clipboard to remind me to work with an issue template for this repo.
 
+ - [ ] #3 See this issue for more ideas
  - [ ] Pick the best Youtubes from #git...2016 to pitch github for Dan et al
  - [ ] Add links to the wiki, website, etc.
  - [ ] Wonky task list?  Add this wonky list to the web page somewhere.
