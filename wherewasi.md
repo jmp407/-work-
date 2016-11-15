@@ -9,6 +9,10 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
  #15
 
+20161115
+ - [ ] Why is the Windows git (hub?) app so hard to open?
+ - [ ] Did I use Atom to convert the md to pdf?  
+2016 
  - [ ] Open explorer in windows github to edit files.  Double click
  - [ ] Add a milestone for this afternoon to look at the issue link.
  - [ ] #15 See this issue for more ideas
