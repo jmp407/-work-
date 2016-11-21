@@ -9,21 +9,39 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
  #15
 
-20161121
- - [ ] ups
+20161122
+
  - [ ] bills
+ - [ ] ups
+  - [ ] Track it on Wednesday
+ - [ ] ORNL html best practice
+ - [ ] Add links to the wiki, website, etc.
+ - [ ] Will this work with bootstrap md js?
+ - [ ] Wonky task list?  Add this wonky list to the web page somewhere.
+
+20161121
+
+ - [x] fixed the spell check in atom.  Had to add hunspell dictionaries in mydocs dir
+ - [x] bills att on line
+ - [x] 9:00 meeting
+ - [x] ups
+  - [x] call after 8:30
+  - [x] deliver where and when
+  - [x] haircut?
+
 20161115
- - [ ] Why is the Windows git (hub?) app so hard to open? Must use START.
+ - [x] Why is the Windows git (hub?) app so hard to open? Must use START.
  - [x] Did I use Atom to convert the md to pdf?  Yes and it's a sin.
+
 20161027
  - [x] Open explorer in windows github to edit files.  Double click
  - [ ] Add a milestone for this afternoon to look at the issue link.
  - [ ] #15 See this issue for more ideas
  - [ ] Pick the best Youtubes from #git...2016 to pitch github for Dan et al
- - [ ] Add links to the wiki, website, etc.
- - [ ] Wonky task list?  Add this wonky list to the web page somewhere.
+
  20161026
  - [x] First commit from Windows and Atom?
+
  20161022
  - [x] No save button means it saves work automatically?  No, see the blue dot?  Then type ctrl s
  - [x] Learn to use ctrl s
