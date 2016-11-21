@@ -21,6 +21,7 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
 20161121
 
+ - [x] Danfoss discussion on TXV mop with Svend See the Gdrv reference folder
  - [x] fixed the spell check in atom.  Had to add hunspell dictionaries in mydocs dir
  - [x] bills att on line
  - [x] 9:00 meeting
