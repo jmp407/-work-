@@ -9,6 +9,9 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
  #15
 
+20161121
+ - [ ] ups
+ - [ ] bills
 20161115
  - [ ] Why is the Windows git (hub?) app so hard to open? Must use START.
  - [x] Did I use Atom to convert the md to pdf?  Yes and it's a sin.
