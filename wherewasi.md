@@ -9,15 +9,26 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
  #15
 
+20161123
+
+ - [ ] Buy stuff
+ - [ ] ups
+  - [ ] Track it on Wednesday 11/23
+
 20161122
 
  - [ ] bills
- - [ ] ups
-  - [ ] Track it on Wednesday
+  - [ ] Where is PNC?
+  - [ ] sheet
+  - [ ] Discover?
  - [ ] ORNL html best practice
  - [ ] Add links to the wiki, website, etc.
  - [ ] Will this work with bootstrap md js?
  - [ ] Wonky task list?  Add this wonky list to the web page somewhere.
+ - [ ] Add links to this file
+  - [ ] on a weekly/monthly basis
+  - [ ] and the gdrive research reference folder for
+   [TXVwwi]: https://drive.google.com/drive/folders/0By2JpWr5gXmhRnJzOGgzRzAyR1k?usp=sharing "TXV folder" TXV
 
 20161121
 
