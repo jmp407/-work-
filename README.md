@@ -1,6 +1,6 @@
 # -work-  
 
-Where was I: -work-/wherewasi.md
+Where was I: https://jmp407.github.io/-work-/wherewasi.md
 
 Web page home  https://jmp407.github.io/-work-/
 
