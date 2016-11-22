@@ -8,12 +8,16 @@ https://help.github.com/articles/helping-people-contribute-to-your-project/
 Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
  #15
+ 
+20161123
+
+ - [ ] Buy stuff
 
 20161122
 
  - [ ] bills
  - [ ] ups
-  - [ ] Track it on Wednesday
+  - [ ] Track it on Wednesday 11/23
  - [ ] ORNL html best practice
  - [ ] Add links to the wiki, website, etc.
  - [ ] Will this work with bootstrap md js?
