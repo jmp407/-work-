@@ -17,6 +17,9 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
 20161122
 
+ - [x] First Pull Request from local on branch in github pc app worked
+  - [x] use the pull request blue links
+  - [x] not the black "Sync" or "Publish" links
  - [ ] bills
   - [ ] Where is PNC?
   - [ ] sheet
@@ -29,6 +32,7 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
   - [ ] on a weekly/monthly basis
   - [ ] and the gdrive research reference folder for
    [TXVwwi]: https://drive.google.com/drive/folders/0By2JpWr5gXmhRnJzOGgzRzAyR1k?usp=sharing "TXV folder" TXV
+   Not sure how this reference is supposed to work in md but looks like it may have issues
 
 20161121
 
