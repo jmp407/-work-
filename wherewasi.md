@@ -12,27 +12,25 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 20161123
 
  - [ ] Buy stuff
+ - [ ] Bills sheet
  - [ ] ups
-  - [ ] Track it on Wednesday 11/23
+  - [ ] Track it
+ - [ ] ORNL html best practice
+ - [ ] Add links to the wiki, website, etc.
+
 
 20161122
 
  - [x] First Pull Request from local on branch in github pc app worked
   - [x] use the pull request blue links
   - [x] not the black "Sync" or "Publish" links
- - [ ] bills
-  - [ ] Where is PNC?
-  - [ ] sheet
-  - [ ] Discover?
- - [ ] ORNL html best practice
- - [ ] Add links to the wiki, website, etc.
- - [ ] Will this work with bootstrap md js?
+ - [x] bills
+  - [x] sheet
+ - [x] Will this work with bootstrap md js?
  - [ ] Wonky task list?  Add this wonky list to the web page somewhere.
- - [ ] Add links to this file
+ - [x] Add links to this file
   - [ ] on a weekly/monthly basis
-  - [ ] and the gdrive research reference folder for
-   [TXVwwi]: https://drive.google.com/drive/folders/0By2JpWr5gXmhRnJzOGgzRzAyR1k?usp=sharing "TXV folder" TXV
-   Not sure how this reference is supposed to work in md but looks like it may have issues
+  - [ ] and the gdrive research reference folder for TXVs
   - [ ] put these links in the Readme file.
 
 20161121
