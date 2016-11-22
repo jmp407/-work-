@@ -33,6 +33,7 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
   - [ ] and the gdrive research reference folder for
    [TXVwwi]: https://drive.google.com/drive/folders/0By2JpWr5gXmhRnJzOGgzRzAyR1k?usp=sharing "TXV folder" TXV
    Not sure how this reference is supposed to work in md but looks like it may have issues
+  - [ ] put these links in the Readme file.
 
 20161121
 
