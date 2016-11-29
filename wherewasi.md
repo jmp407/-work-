@@ -11,12 +11,13 @@ Another link to a video:  https://www.youtube.com/watch?v=juLIxo42A_s
 
 20161123
 
- - [ ] Buy stuff
- - [ ] Bills sheet
- - [ ] ups
-  - [ ] Track it
- - [ ] ORNL html best practice
- - [ ] Add links to the wiki, website, etc.
+ - [x] Buy stuff  move to Black Friday on my G calendar
+ - [x] Bills sheet
+ - [x] ups
+  - [x] Track it
+ - [x] ORNL html best practice
+  - [x] Move to bit-bucket private
+ - [ ] Add links to the wiki, website, etc. or maybe not.
 
 
 20161122
